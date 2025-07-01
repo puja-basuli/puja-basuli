@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Puja</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puja-basuli&label=Profile%20views&color=0e75b6&style=flat" alt="puja-basuli" /> </p>
-
-- 🌱 I’m currently learning **Next Js, Prisma ORM**
 
 - 📫 How to reach me **basulipuja18@gmail.com**
 
